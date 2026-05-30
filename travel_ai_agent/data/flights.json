@@ -1,0 +1,29 @@
+[
+  {
+    "source": "Delhi",
+    "destination": "Goa",
+    "airline": "IndiGo",
+    "price": 4800,
+    "duration": "2h 40m",
+    "departure": "14:00",
+    "arrival": "16:40"
+  },
+  {
+    "source": "Delhi",
+    "destination": "Goa",
+    "airline": "Air India",
+    "price": 6200,
+    "duration": "2h 50m",
+    "departure": "09:30",
+    "arrival": "12:20"
+  },
+  {
+    "source": "Mumbai",
+    "destination": "Goa",
+    "airline": "Akasa Air",
+    "price": 3100,
+    "duration": "1h 20m",
+    "departure": "10:00",
+    "arrival": "11:20"
+  }
+]
