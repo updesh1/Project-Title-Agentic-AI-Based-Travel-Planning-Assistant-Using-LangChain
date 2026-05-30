@@ -1,0 +1,49 @@
+[
+  {"city":"Goa","name":"Sea View Resort","price_per_night":3200,"rating":4.5,"type":"Beach"},
+  {"city":"Goa","name":"Budget Stay Goa","price_per_night":1500,"rating":4.0,"type":"Budget"},
+  {"city":"Goa","name":"Luxury Palm Hotel","price_per_night":7000,"rating":4.8,"type":"Luxury"},
+
+  {"city":"Delhi","name":"Capital Comfort Hotel","price_per_night":2800,"rating":4.2,"type":"Budget"},
+  {"city":"Delhi","name":"Heritage Delhi Stay","price_per_night":4500,"rating":4.5,"type":"Heritage"},
+  {"city":"Delhi","name":"Luxury City Palace Delhi","price_per_night":8500,"rating":4.8,"type":"Luxury"},
+
+  {"city":"Mumbai","name":"Marine View Hotel","price_per_night":5200,"rating":4.6,"type":"Beach"},
+  {"city":"Mumbai","name":"Mumbai Budget Inn","price_per_night":2600,"rating":4.1,"type":"Budget"},
+  {"city":"Mumbai","name":"Premium Mumbai Suites","price_per_night":9000,"rating":4.8,"type":"Luxury"},
+
+  {"city":"Jaipur","name":"Pink City Heritage Hotel","price_per_night":3500,"rating":4.6,"type":"Heritage"},
+  {"city":"Jaipur","name":"Jaipur Budget Stay","price_per_night":1800,"rating":4.0,"type":"Budget"},
+  {"city":"Jaipur","name":"Royal Palace Resort","price_per_night":7500,"rating":4.9,"type":"Luxury"},
+
+  {"city":"Agra","name":"Taj View Residency","price_per_night":3200,"rating":4.5,"type":"Heritage"},
+  {"city":"Agra","name":"Agra Budget Lodge","price_per_night":1600,"rating":4.0,"type":"Budget"},
+  {"city":"Agra","name":"Luxury Taj Retreat","price_per_night":7200,"rating":4.8,"type":"Luxury"},
+
+  {"city":"Varanasi","name":"Ganga View Hotel","price_per_night":3000,"rating":4.6,"type":"Spiritual"},
+  {"city":"Varanasi","name":"Kashi Budget Stay","price_per_night":1400,"rating":4.0,"type":"Budget"},
+  {"city":"Varanasi","name":"Heritage Ghat Palace","price_per_night":6500,"rating":4.7,"type":"Heritage"},
+
+  {"city":"Lucknow","name":"Awadh Heritage Hotel","price_per_night":3300,"rating":4.5,"type":"Heritage"},
+  {"city":"Lucknow","name":"Lucknow Budget Inn","price_per_night":1500,"rating":4.1,"type":"Budget"},
+  {"city":"Lucknow","name":"Luxury Awadh Palace","price_per_night":7000,"rating":4.8,"type":"Luxury"},
+
+  {"city":"Udaipur","name":"Lake View Palace Stay","price_per_night":5200,"rating":4.8,"type":"Luxury"},
+  {"city":"Udaipur","name":"Udaipur Budget Rooms","price_per_night":1800,"rating":4.1,"type":"Budget"},
+  {"city":"Udaipur","name":"Royal Heritage Haveli","price_per_night":4200,"rating":4.6,"type":"Heritage"},
+
+  {"city":"Manali","name":"Mountain View Resort","price_per_night":3800,"rating":4.7,"type":"Nature"},
+  {"city":"Manali","name":"Manali Budget Cottage","price_per_night":1600,"rating":4.0,"type":"Budget"},
+  {"city":"Manali","name":"Luxury Snow Valley Resort","price_per_night":7800,"rating":4.8,"type":"Luxury"},
+
+  {"city":"Shimla","name":"Mall Road Comfort Hotel","price_per_night":3000,"rating":4.4,"type":"Budget"},
+  {"city":"Shimla","name":"Shimla Nature Resort","price_per_night":4500,"rating":4.6,"type":"Nature"},
+  {"city":"Shimla","name":"Luxury Hill Palace","price_per_night":7600,"rating":4.8,"type":"Luxury"},
+
+  {"city":"Kerala","name":"Alleppey Backwater Resort","price_per_night":4800,"rating":4.8,"type":"Nature"},
+  {"city":"Kerala","name":"Kerala Budget Stay","price_per_night":2000,"rating":4.1,"type":"Budget"},
+  {"city":"Kerala","name":"Luxury Beach Ayurveda Resort","price_per_night":8500,"rating":4.9,"type":"Luxury"},
+
+  {"city":"Darjeeling","name":"Tea Garden View Hotel","price_per_night":3600,"rating":4.6,"type":"Nature"},
+  {"city":"Darjeeling","name":"Darjeeling Budget Stay","price_per_night":1700,"rating":4.0,"type":"Budget"},
+  {"city":"Darjeeling","name":"Luxury Hilltop Resort","price_per_night":7200,"rating":4.8,"type":"Luxury"}
+]

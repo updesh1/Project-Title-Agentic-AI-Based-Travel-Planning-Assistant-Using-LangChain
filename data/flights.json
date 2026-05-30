@@ -1,0 +1,21 @@
+[
+  {"source":"Delhi","destination":"Goa","airline":"IndiGo","price":4800,"duration":"2h 40m","departure":"14:00","arrival":"16:40"},
+  {"source":"Lucknow","destination":"Goa","airline":"IndiGo","price":6800,"duration":"4h 30m","departure":"08:20","arrival":"12:50"},
+  {"source":"Mumbai","destination":"Goa","airline":"Akasa Air","price":3100,"duration":"1h 20m","departure":"10:00","arrival":"11:20"},
+  {"source":"Delhi","destination":"Jaipur","airline":"IndiGo","price":2500,"duration":"1h 05m","departure":"09:00","arrival":"10:05"},
+  {"source":"Lucknow","destination":"Jaipur","airline":"Air India","price":4300,"duration":"2h 15m","departure":"12:00","arrival":"14:15"},
+  {"source":"Delhi","destination":"Mumbai","airline":"Vistara","price":5200,"duration":"2h 10m","departure":"07:30","arrival":"09:40"},
+  {"source":"Lucknow","destination":"Mumbai","airline":"IndiGo","price":5900,"duration":"2h 30m","departure":"15:00","arrival":"17:30"},
+  {"source":"Delhi","destination":"Agra","airline":"Regional Air","price":2200,"duration":"55m","departure":"08:00","arrival":"08:55"},
+  {"source":"Mumbai","destination":"Jaipur","airline":"Air India","price":6100,"duration":"2h 00m","departure":"13:40","arrival":"15:40"},
+  {"source":"Delhi","destination":"Varanasi","airline":"IndiGo","price":3800,"duration":"1h 25m","departure":"06:30","arrival":"07:55"},
+  {"source":"Lucknow","destination":"Varanasi","airline":"Regional Air","price":2600,"duration":"1h 00m","departure":"11:30","arrival":"12:30"},
+  {"source":"Delhi","destination":"Udaipur","airline":"Vistara","price":4600,"duration":"1h 35m","departure":"10:20","arrival":"11:55"},
+  {"source":"Mumbai","destination":"Udaipur","airline":"IndiGo","price":4900,"duration":"1h 30m","departure":"16:00","arrival":"17:30"},
+  {"source":"Delhi","destination":"Manali","airline":"Himalayan Air","price":7200,"duration":"2h 20m","departure":"07:15","arrival":"09:35"},
+  {"source":"Delhi","destination":"Shimla","airline":"Regional Air","price":5400,"duration":"1h 20m","departure":"09:45","arrival":"11:05"},
+  {"source":"Delhi","destination":"Kerala","airline":"Air India","price":8500,"duration":"3h 20m","departure":"06:50","arrival":"10:10"},
+  {"source":"Mumbai","destination":"Kerala","airline":"IndiGo","price":6200,"duration":"2h 05m","departure":"14:10","arrival":"16:15"},
+  {"source":"Kolkata","destination":"Darjeeling","airline":"Regional Air","price":3700,"duration":"1h 10m","departure":"08:30","arrival":"09:40"},
+  {"source":"Delhi","destination":"Darjeeling","airline":"Air India","price":7600,"duration":"3h 45m","departure":"12:15","arrival":"16:00"}
+]

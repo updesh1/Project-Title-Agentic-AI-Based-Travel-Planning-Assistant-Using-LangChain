@@ -1,0 +1,58 @@
+[
+    {"city":"Goa","name":"Baga Beach","type":"Beach","rating":4.6},
+    {"city":"Goa","name":"Calangute Beach","type":"Beach","rating":4.5},
+    {"city":"Goa","name":"Dudhsagar Falls","type":"Nature","rating":4.8},
+    {"city":"Goa","name":"Fort Aguada","type":"Historical","rating":4.4},
+
+    {"city":"Delhi","name":"India Gate","type":"Historical","rating":4.7},
+    {"city":"Delhi","name":"Red Fort","type":"Historical","rating":4.8},
+    {"city":"Delhi","name":"Qutub Minar","type":"Historical","rating":4.7},
+    {"city":"Delhi","name":"Lotus Temple","type":"Spiritual","rating":4.6},
+    {"city":"Delhi","name":"Chandni Chowk","type":"Food","rating":4.5},
+
+    {"city":"Mumbai","name":"Gateway of India","type":"Historical","rating":4.8},
+    {"city":"Mumbai","name":"Marine Drive","type":"Beach","rating":4.7},
+    {"city":"Mumbai","name":"Juhu Beach","type":"Beach","rating":4.5},
+    {"city":"Mumbai","name":"Elephanta Caves","type":"Historical","rating":4.6},
+    {"city":"Mumbai","name":"Colaba Causeway","type":"Shopping","rating":4.5},
+
+    {"city":"Jaipur","name":"Hawa Mahal","type":"Historical","rating":4.8},
+    {"city":"Jaipur","name":"Amber Fort","type":"Historical","rating":4.9},
+    {"city":"Jaipur","name":"City Palace","type":"Historical","rating":4.7},
+    {"city":"Jaipur","name":"Jal Mahal","type":"Nature","rating":4.6},
+    {"city":"Jaipur","name":"Johari Bazaar","type":"Shopping","rating":4.5},
+
+    {"city":"Agra","name":"Taj Mahal","type":"Historical","rating":5.0},
+    {"city":"Agra","name":"Agra Fort","type":"Historical","rating":4.8},
+    {"city":"Agra","name":"Mehtab Bagh","type":"Nature","rating":4.5},
+
+    {"city":"Varanasi","name":"Dashashwamedh Ghat","type":"Spiritual","rating":4.9},
+    {"city":"Varanasi","name":"Kashi Vishwanath Temple","type":"Spiritual","rating":5.0},
+    {"city":"Varanasi","name":"Assi Ghat","type":"Spiritual","rating":4.8},
+
+    {"city":"Lucknow","name":"Bara Imambara","type":"Historical","rating":4.8},
+    {"city":"Lucknow","name":"Rumi Darwaza","type":"Historical","rating":4.7},
+    {"city":"Lucknow","name":"Ambedkar Memorial Park","type":"Nature","rating":4.5},
+    {"city":"Lucknow","name":"Hazratganj","type":"Shopping","rating":4.6},
+    {"city":"Lucknow","name":"Marine Drive Lucknow","type":"Nature","rating":4.5},
+
+    {"city":"Udaipur","name":"City Palace Udaipur","type":"Historical","rating":4.9},
+    {"city":"Udaipur","name":"Lake Pichola","type":"Nature","rating":4.8},
+    {"city":"Udaipur","name":"Fateh Sagar Lake","type":"Nature","rating":4.7},
+
+    {"city":"Manali","name":"Solang Valley","type":"Adventure","rating":4.9},
+    {"city":"Manali","name":"Rohtang Pass","type":"Adventure","rating":5.0},
+    {"city":"Manali","name":"Hadimba Temple","type":"Spiritual","rating":4.7},
+
+    {"city":"Shimla","name":"Mall Road","type":"Shopping","rating":4.6},
+    {"city":"Shimla","name":"Jakhoo Temple","type":"Spiritual","rating":4.7},
+    {"city":"Shimla","name":"Kufri","type":"Adventure","rating":4.8},
+
+    {"city":"Kerala","name":"Alleppey Backwaters","type":"Nature","rating":5.0},
+    {"city":"Kerala","name":"Munnar Tea Gardens","type":"Nature","rating":4.9},
+    {"city":"Kerala","name":"Kovalam Beach","type":"Beach","rating":4.7},
+
+    {"city":"Darjeeling","name":"Tiger Hill","type":"Nature","rating":4.9},
+    {"city":"Darjeeling","name":"Batasia Loop","type":"Nature","rating":4.7},
+    {"city":"Darjeeling","name":"Darjeeling Himalayan Railway","type":"Historical","rating":4.8}
+]
