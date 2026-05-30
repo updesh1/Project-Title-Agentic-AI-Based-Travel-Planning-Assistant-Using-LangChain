@@ -1,0 +1,23 @@
+[
+  {
+    "city": "Goa",
+    "name": "Sea View Resort",
+    "price_per_night": 3200,
+    "rating": 4.5,
+    "type": "Beach"
+  },
+  {
+    "city": "Goa",
+    "name": "Budget Stay Goa",
+    "price_per_night": 1500,
+    "rating": 4.0,
+    "type": "Budget"
+  },
+  {
+    "city": "Goa",
+    "name": "Luxury Palm Hotel",
+    "price_per_night": 7000,
+    "rating": 4.8,
+    "type": "Luxury"
+  }
+]

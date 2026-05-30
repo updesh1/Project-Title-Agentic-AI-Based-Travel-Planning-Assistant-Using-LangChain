@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Goa",
+    "name": "Baga Beach",
+    "type": "Beach",
+    "rating": 4.6
+  },
+  {
+    "city": "Goa",
+    "name": "Calangute Beach",
+    "type": "Beach",
+    "rating": 4.5
+  },
+  {
+    "city": "Goa",
+    "name": "Basilica of Bom Jesus",
+    "type": "Heritage",
+    "rating": 4.7
+  },
+  {
+    "city": "Goa",
+    "name": "Fort Aguada",
+    "type": "Historical",
+    "rating": 4.4
+  },
+  {
+    "city": "Goa",
+    "name": "Dudhsagar Falls",
+    "type": "Nature",
+    "rating": 4.8
+  }
+]
